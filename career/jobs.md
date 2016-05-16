@@ -1,0 +1,2 @@
+- I learned that a job interview made by colleague's recommendation can be far much easier to pass then without it. 
+- I also learned that thus networking is important in this context.

@@ -1,0 +1,1 @@
+- Today I learned that module level configuration code can be useful in production environment.
