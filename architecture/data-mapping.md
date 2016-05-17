@@ -1,3 +1,3 @@
-- I learned that SQLAlchemy architecture uses data-mapping pattern
-    to persist both relational aspect of database and object oriented
-    paradaigm.
+- Today I learned that SQLAlchemy architecture uses data-mapping pattern
+    to retain both relational aspect of RDBMS and object oriented
+    paradaigm for ORM layer.
