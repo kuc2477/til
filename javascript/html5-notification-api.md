@@ -1,0 +1,2 @@
+- Today I learned that HTML5 specification contains desktop notification API.
+- The API wrappers can be easily found in github(https://github.com/Nickersoft/push.js)
